@@ -1,5 +1,72 @@
 package com.mycompany.PROG6112_2026_ST10524142;
 public class PROG6112_2026_ST10524142 (
 
-public static void main(String[] args) { 
+public static void main(String[] args) {
+System.out.printLn("-------------------------------------------------------------------------");
 System.out.printLn("Gaming Console Report");
+System.out.printLn("-------------------------------------------------------------------------");
+String C1 = PS5;
+String C2 = XBOX;
+String C3 = Switch;
+System.out.printLn( C1 + C2 + C3);
+System.out.PrintLn("Cape Town" + 1000 + 2000 + 3000);
+System.out.PrintLn("Port Elizabeth" + 2000 + 3000 + 4000);
+System.out.PrintLn("Pretoria" + 1500 + 1100 + 1200);
+System.out.PrintLn("--------------------------------------------------------------------------);
+System.out.PrintLn(" Console sales for each city");
+System.out.PrintLn("--------------------------------------------------------------------------);
+System.out.PrintLn("Cape Town" + 6000);
+System.out.PrintLn("Port Elizabeth" + 9000);
+System.out.PrintLn("Pretoria" + 3800");
+System.out.print(" City with the most sales" + );
+
+
+
+public class Console (
+String DeviceType = 
+String StoreName = "Number 1 Electronic Store";
+
+System.out.printLn("Select the Console type");
+System.out.PrintLn("1)PS5" +\n"2)XBOX" + \n"3)SWITCH");
+System.out.PrintLn("Enter the store: " + StoreName );
+System.out.PrintLn("Enter the total sales of PS5 consoles for Number 1 Electronics Store: " +  
+
+
+
+
+public interface IConsole { 
+   String getConsoleType();
+   String getStore();
+   String getTotalSales();
+}
+
+public ConsoleSales { 
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
