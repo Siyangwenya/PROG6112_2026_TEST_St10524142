@@ -1,0 +1,5 @@
+package com.mycompany.PROG6112_2026_ST10524142;
+public class PROG6112_2026_ST10524142 (
+
+public static void main(String[] args) { 
+System.out.printLn("Gaming Console Report");
